@@ -36,7 +36,7 @@ export const Inspire = memo(() => {
       id="inspire"
     >
       <motion.img
-        src="/images/temple.jpg"
+        src="/images/temple.webp"
         alt="Mountains with galaxy sky"
         className="absolute inset-0 w-full h-full object-cover scale-[1.1]"
         style={{ scale }}

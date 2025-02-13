@@ -92,7 +92,7 @@ export const Hero = memo(() => {
       style={{ opacity: opacity }}
     >
       <motion.img
-        src="/images/tokio.png"
+        src="/images/tokio.webp"
         alt="Torii Gate in Japan"
         className="absolute inset-0 w-full h-full object-cover"
         style={{ scale: scale }}
